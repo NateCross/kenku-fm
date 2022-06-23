@@ -98,7 +98,7 @@ export function PlaylistTracks({
       <List
         sx={{
           width: "100%",
-          maxWidth: 360,
+          maxWidth: 720,
           margin: "0 auto",
           marginBottom: "240px",
         }}
